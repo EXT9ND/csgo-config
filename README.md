@@ -1,1 +1,1 @@
-download this file as zip and put in \Steam\userdata\your steam id\730\local\cfg and put the file there 
+download this file as zip and put the config.cfg file in \Steam\userdata\your steam id\730\local\cfg\
